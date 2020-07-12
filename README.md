@@ -1,2 +1,3 @@
 # -1-1
-初めて作ります。
+I create for the first time.
+I'm new to python, so I'd love to hear from more experienced people. I also hope that I can output what I have learned.
